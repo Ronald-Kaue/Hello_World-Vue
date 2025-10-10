@@ -13,7 +13,7 @@ const erro = ref('')
 function adicionar() {
   const texto = novoTexto.value.trim()
   if (!texto) {
-    erro.value = '⚠️ O campo não pode estar vazio.'
+    erro.value = 'O campo não pode estar vazio.'
     return
   }
 
