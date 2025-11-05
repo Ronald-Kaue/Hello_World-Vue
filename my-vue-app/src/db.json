@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "Ana", "email": "ana@example.com" },
+    { "id": 2, "name": "Bruno", "email": "bruno@example.com" }
+  ],
+  "posts": [
+    { "id": 1, "title": "Olá", "body": "Primeiro post", "userId": 1 },
+    { "id": 2, "title": "Vue.js é incrível", "body": "Usando json-server!", "userId": 2 }
+  ]
+}
